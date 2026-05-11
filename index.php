@@ -15,6 +15,6 @@
             echo header_fragment();
         ?>
         <h1>Home</h1>
-        <p>This is a website.</p>
+        <h2>This is a website.</h2>
     </body>
 </html>
