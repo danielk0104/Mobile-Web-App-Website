@@ -34,7 +34,8 @@
                 <img class="left" src="assets/timer.png" alt="Screenshot of the app's timer">
                 <div>
                     <h2>Timer</h2>
-                    <p>A timer is useful for </p>
+                    <p>A timer is useful for pacing youself, taking regular breaks and focusing your mind.</p>
+                    <p>Consil's timer functionality is built with time management methods such as the pomodoro technique in mind.</p>
                 </div>
             </div>
         </main>
