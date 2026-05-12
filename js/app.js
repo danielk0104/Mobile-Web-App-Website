@@ -29,8 +29,8 @@ window.addEventListener('load', function(){
         // Check if a rating is defined
         if (rating) {
             // Filter based on the rating
-            json = json.filter(function(film) {
-                return film.rating === rating;
+            json = json.filter(function(review) {
+                return review.rating === rating;
             });
         }
 

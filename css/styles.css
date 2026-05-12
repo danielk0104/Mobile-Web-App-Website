@@ -63,7 +63,7 @@ h3 {
     color: #1C398E;
 }
 
-h4 {
+.logo-text {
     font-size: 1.8rem;
     font-weight: 200;
     margin: 0px;
@@ -89,6 +89,7 @@ main {
     margin-top: 30px;
     display: flex;
     align-items: center;
+    padding: 5px;
 }
 
 .info-box {
@@ -171,7 +172,7 @@ a {
     transition: 0.2s ease;
 }
 
-button {
+.button {
     padding: 10px;
     border: 1px solid #1C398E;
     border-radius: 40px;
@@ -182,12 +183,12 @@ button {
     cursor: pointer;
 }
 
-button:hover {
+.button:hover {
     background: #1C398E;
     color: white;
 }
 
-button:hover a {
+.button:hover a {
     color: white;
 }
 

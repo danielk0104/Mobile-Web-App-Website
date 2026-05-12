@@ -3,7 +3,7 @@
     include 'includes/nav_fragment.php';
 ?>
 <!DOCTYPE html>
-<html lan="en">
+<html lang="en">
     <?php 
         $title = "Home";
         echo head_fragment($title);
@@ -15,13 +15,11 @@
             ?>
             <div class="container">
                 <img class="logo" src="assets/logo.svg" alt="App logo">
-                <h4>Consil</h4>
+                <p class="logo-text">Consil</p>
             </div>
             <h1>The only productivity app you'll need.</h1>
             <p>Consil is the all-in-one app for students.</p>
-            <a href="https://w24011169.nuwebspace.co.uk/KV5049/assessment/webapp/">
-                <button>Get Started</button>
-            </a>
+            <a href="https://w24011169.nuwebspace.co.uk/KV5049/assessment/webapp/" tabindex="0" class="button" role="button">Get Started</a>
             <div class="container">
                 <img class="left" src="assets/home.png" alt="Screenshot of the app's home page">
                 <div>
@@ -31,23 +29,17 @@
                         <div class="info-box-small">
                             <h3>To-Do List</h3>
                             <p>To-do lists are effective tools for time management.</p>
-                            <a href="information.php">
-                                <button>Read More</button>
-                            </a>
+                            <a href="information.php" tabindex="0" class="button" role="button">Read More</a>
                         </div>
                         <div class="info-box-small">
                             <h3>Journalling</h3>
                             <p>Journalling is useful for keeping your thoughts in order.</p>
-                            <a href="information.php">
-                                <button>Read More</button>
-                            </a>
+                            <a href="information.php" tabindex="0" class="button" role="button">Read More</a>
                         </div>
                         <div class="info-box-small">
                             <h3>Timer</h3>
                             <p>A timer is useful for pacing youself and focusing your mind.</p>
-                            <a href="information.php">
-                                <button>Read More</button>
-                            </a>
+                            <a href="information.php" tabindex="0" class="button" role="button">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -60,9 +52,7 @@
                         <div class="info-box">
                             <h3>Trusted by students</h3>
                             <p>Consil is trusted by students all over the world. Read what our users have to say for youself.</p>
-                            <a href="reviews.php">
-                                <button>Read the Reviews</button>
-                            </a>
+                            <a href="reviews.php" tabindex="0" class="button" role="button">Read the Reviews</a>
                         </div>
                     </div>
                 </div>

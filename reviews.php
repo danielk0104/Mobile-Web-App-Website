@@ -4,7 +4,7 @@
     include 'includes/review_filter_fragment.php';
 ?>
 <!DOCTYPE html>
-<html lan="en">
+<html lang="en">
     <?php 
         $title = "Reviews";
         echo head_fragment($title);
