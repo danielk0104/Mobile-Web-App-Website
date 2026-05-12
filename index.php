@@ -18,10 +18,10 @@
                 <h3>Consil</h3>
             </div>
             <h1>The only productivity app you'll need.</h1>
-            <p class="light-text">Consil is the all-in-one app for students.</p>
+            <p>Consil is the all-in-one app for students.</p>
             <button>Get Started</button>
             <div class="container">
-                <img class="left" src="assets/home.png" alt="Screenshot of the app's journal">
+                <img class="left" src="assets/home.png" alt="Screenshot of the app's home page">
                 <div>
                     <h2>Productivity when it counts</h2>
                     <p>Consil's range of funtions support students to self-study. Trust Consil to keep you on track.</p>
