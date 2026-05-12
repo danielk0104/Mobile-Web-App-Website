@@ -35,7 +35,7 @@ window.addEventListener('load', function(){
         }
 
         let reviews = json.map(function(review) {
-            return '<div class="review">' + '<h3>' + review.title + '</h3>' + '<p>Rating: ' + review.rating + '</p>' + '<p>' + review.review + '</p>' + '</div>';
+            return '<div class="review">' + '<div class="review-content">' + '<h3>' + review.title + '</h3>' + '<p class="author">' + review.reviewer.name + '</p>' + '<p>' + review.review + '</p>' + '</div>' + '<div class="rating-content">' + '<p class="rating">Rating</p>' + '<h1 class="rating">' + review.rating + '</h1>' + '</div>' + '</div>';
         });
 
         document.getElementById('app').innerHTML = reviews.join('');

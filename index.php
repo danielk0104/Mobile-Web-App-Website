@@ -19,7 +19,7 @@
             </div>
             <h1>The only productivity app you'll need.</h1>
             <p>Consil is the all-in-one app for students.</p>
-            <button>Get Started</button>
+            <button><a href="https://w24011169.nuwebspace.co.uk/KV5049/assessment/webapp/">Get Started</a></button>
             <div class="container">
                 <img class="left" src="assets/home.png" alt="Screenshot of the app's home page">
                 <div>

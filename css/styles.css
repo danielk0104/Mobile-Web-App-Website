@@ -88,14 +88,14 @@ main {
     border: 1px solid grey;
     border-radius: 15px;
     padding: 15px;
-    margin: 10px;
+    margin-top: 10px;
 }
 
 .info-box-small {
     border: 1px solid grey;
     border-radius: 15px;
     padding: 15px;
-    margin: 10px;
+    margin-right: 10px;
     width: 30%;
 }
 
@@ -104,6 +104,27 @@ main {
     border-radius: 15px;
     padding: 15px;
     margin-bottom: 15px;
+    display: flex;
+}
+
+.review-content {
+    width: 95%;
+}
+
+.author {
+    font-size: 0.9rem;
+    margin-top: 0px;
+}
+
+.rating-content {
+    margin-left: 15px;
+    text-align: center;
+}
+
+.rating {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
 }
 
 .filters ul {
@@ -118,7 +139,8 @@ main {
     padding: 10px;
     border: 1px solid #1C398E;
     border-radius: 40px;
-    margin: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
     background: white;
     font-family: "Montserrat", Helvetica, sans-serif;
     color: black;

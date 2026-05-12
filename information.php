@@ -14,7 +14,7 @@
                 echo nav_fragment();
             ?>
             <h1>Information</h1>
-            <p>Advice for student using Consil.</p>
+            <p>Advice for students using Consil.</p>
             <div class="container">
                 <img class="left" src="assets/journal.png" alt="Screenshot of the app's journal">
                 <div>
