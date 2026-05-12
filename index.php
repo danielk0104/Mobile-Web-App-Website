@@ -15,11 +15,13 @@
             ?>
             <div class="container">
                 <img class="logo" src="assets/logo.svg" alt="App logo">
-                <h3>Consil</h3>
+                <h4>Consil</h4>
             </div>
             <h1>The only productivity app you'll need.</h1>
             <p>Consil is the all-in-one app for students.</p>
-            <button><a href="https://w24011169.nuwebspace.co.uk/KV5049/assessment/webapp/">Get Started</a></button>
+            <a href="https://w24011169.nuwebspace.co.uk/KV5049/assessment/webapp/">
+                <button>Get Started</button>
+            </a>
             <div class="container">
                 <img class="left" src="assets/home.png" alt="Screenshot of the app's home page">
                 <div>
@@ -29,17 +31,23 @@
                         <div class="info-box-small">
                             <h3>To-Do List</h3>
                             <p>To-do lists are effective tools for time management.</p>
-                            <button><a href="information.php">Read More</a></button>
+                            <a href="information.php">
+                                <button>Read More</button>
+                            </a>
                         </div>
                         <div class="info-box-small">
                             <h3>Journalling</h3>
                             <p>Journalling is useful for keeping your thoughts in order.</p>
-                            <button><a href="information.php">Read More</a></button>
+                            <a href="information.php">
+                                <button>Read More</button>
+                            </a>
                         </div>
                         <div class="info-box-small">
                             <h3>Timer</h3>
-                            <p>A timer is useful for pacing youself, taking regular breaks and focusing your mind.</p>
-                            <button><a href="information.php">Read More</a></button>
+                            <p>A timer is useful for pacing youself and focusing your mind.</p>
+                            <a href="information.php">
+                                <button>Read More</button>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -52,7 +60,9 @@
                         <div class="info-box">
                             <h3>Trusted by students</h3>
                             <p>Consil is trusted by students all over the world. Read what our users have to say for youself.</p>
-                            <button><a href="reviews.php">Read the Reviews</a></button>
+                            <a href="reviews.php">
+                                <button>Read the Reviews</button>
+                            </a>
                         </div>
                     </div>
                 </div>
